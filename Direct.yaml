@@ -11,6 +11,7 @@ DOMAIN,ocsp.apple.com,DIRECT
 DOMAIN,api.devicecheck.apple.com,DIRECT
 DOMAIN-SUFFIX,devicecheck.apple.com,DIRECT
 DOMAIN-SUFFIX,apple.com,DIRECT
+DOMAIN-SUFFIX,oracle.com,DIRECT
 DOMAIN-SUFFIX,aaplimg.com,DIRECT
 DOMAIN-SUFFIX,akadns.net,DIRECT
 DOMAIN-SUFFIX,icloud.com,DIRECT
